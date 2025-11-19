@@ -4,7 +4,7 @@ updates:
   - package-ecosystem: "pip"
     directory: "/Dependabot"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     open-pull-requests-limit: 5
     # KEINE groups, KEINE komplexen Einstellungen
     target-branch: "main"
